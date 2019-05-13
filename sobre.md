@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Sobre Mim
 comments: true
 ---
 
