@@ -866,6 +866,7 @@ iframe {
     .sidebar {max-width:100%;}
     .copyright .pull-left, .copyright .pull-right {float:none;}
     .beforefooter {text-align:center;}
+    .afterintro {text-align:center;}
     .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }    
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
     
