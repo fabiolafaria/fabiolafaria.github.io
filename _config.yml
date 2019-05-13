@@ -1,9 +1,9 @@
 # Site
-name: "Affiliates Theme for Jekyll"
+name: "Fabiola Faria"
 title: "Affiliates Theme for Jekyll"
 description: "Jekyll Theme for Blogging"
 meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+logo: "Fabiola Faria"
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
