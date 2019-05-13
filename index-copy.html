@@ -1,0 +1,100 @@
+---
+layout: default
+title: Cursos e Mentorias
+---
+
+<!-- Home Jumbotron
+================================================== -->    
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>Curso de Instagram Ads</h1>
+        <h2 class="lead">Quer aumentar suas vendas através do Instagram? Entenda as métricas do Instagram e desenvolva uma estratégia de sucesso para o seu negócio. Curso de <b>2 horas</b>  ministrado em Parceria com Tg Marketing. Curso direcionado e diferenciado para cada cliente</h2>    
+        <a href="https://api.whatsapp.com/send?phone=5511951149063&text=Oi%20vi%20seu%20perfil%20no%20Instagram%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20cursos" class="btn">Saiba Mais</a>
+    </div>
+</section>
+<section class="full-width">
+    <div class="afterintro">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <h3>Cursos de Instagram para Negócios</h3>
+                    <p>Nós oferecemos cursos direcionados em formato de assessoria com as melhores estratégias para seu negócio. Quer saber mais?</p>
+                    <a class="btn btn-primary btn-lg" href="https://api.whatsapp.com/send?phone=5511951149063&text=Oi%20vi%20seu%20perfil%20no%20Instagram%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20cursos">Entrar em Contato</a>
+                </div>
+                <div class="col-md-4 text-right footersocial">
+                    <h5>Redes Sociais</h5>
+                    <a href="https://www.instagram.com/fabiolafaria_/"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/seoanalytics/"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/fabiola_faria"><i class="fa fa-twitter"></i></a>
+                     <a href="https://br.pinterest.com/fabiolafaria_/"><i class="fa fa-pinterest"></i></a>
+                     <a href="https://github.com/fabiolafaria"><i class="fa fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Mentorias</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+{% if paginator.previous_page %}
+{% if paginator.previous_page > 0 %}
+<div id="jumptopageof"></div>
+{% endif %}
+{% endif %}    
+
+<section class="featured-posts">
+        <div class="section-title">
+            <h2><span>Novidades</span></h2>    
+        </div>
+
+        <div class="row listfeaturedtag">
+
+            {% for post in paginator.posts %}
+
+            {% unless post.featured == true %}
+
+                {% include featuredbox.html %}
+
+            {% endunless %}
+
+            {% endfor %}
+
+        </div> 
+
+        <!-- Pagination -->
+        <div class="bottompagination">
+
+            <span class="navigation" role="navigation">
+
+                {% include pagination.html %}
+
+            </span>
+
+        </div>
+
+</section>
