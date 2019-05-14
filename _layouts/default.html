@@ -8,8 +8,6 @@
 {% include header.html %}
 
     
-
-    
 <!-- End Menu Navigation
 ================================================== -->
     
@@ -59,73 +57,8 @@
             </div>
         </div>
     </div>
-
-    <!-- Begin Footer
-    ================================================== -->
-    <footer class="footer">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-sm-3">
-                <div class="footer-widget">
-                <a href="{{site.baseurl}}/contact">
-                <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
-                </a>
-                </div>
-                </div>
-
-                <div class="col-sm-3">
-                <div class="footer-widget">
-                <h5 class="title">Parcerias</h5>
-                <ul>
-                <li><a target="_blank" href="https://seoanalytics.com.br/">SEO Analytics</a></li>
-                <li><a target="blank" href="https://www.instagram.com/agenciadip/">Agência DIP</a></li>
-                <li><a target="blank" href="">Agência Capiti</a></li>
-                <li><a target="blank" href="https://www.instagram.com/tg.marketing/">Tg Marketing</a></li>
-                <li><a target="blank" href="/contact/">Seja Parceiro</a></li>
-                </ul>
-                </div>
-                </div>
-
-                <div class="col-sm-3">
-                <div class="footer-widget">
-                <h5 class="title">Site</h5>
-                <ul>
-                <li><a href="{{ site.baseurl }}/sobre">Sobre</a></li>
-                <li><a target="_blank" href="{{ site.baseurl }}/cursos">Cursos e Mentorias</a></li>
-                <li><a href="{{ site.baseurl }}/contato">Parcerias</a></li>
-                <li><a href="https://www.wowthemes.net/blog/">Blog</a></li>
-                <li><a href="{{ site.baseurl }}/contato">Contato</a></li>
-                </ul>
-                </div>
-                </div>
-
-                <div class="col-sm-3">
-                <div class="footer-widget textwidget">
-                    <h5 class="title">Cursos e Mentorias</h5>
-                    <p>Entre em contato para saber mais sobre os cursos e mentorias. Mande mensagem direto por <a href="https://api.whatsapp.com/send?phone=5511951149063&text=Oi%20vi%20seu%20perfil%20no%20Instagram%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20cursos">Whats App</a>.</p> 
-                </div>
-                </div>
-            </div>
-
-            <div class="copyright">
-                <p class="pull-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
-                </p>
-                <p class="pull-right">
-                <!-- Please, leave credit to author unless you own a commercial license: https://www.wowthemes.net/freebies-license/ --> 
-                Template por <a href="https://github.com/wowthemesnet/affiliates-jekyll-theme">WowThemes</a> adaptado por <a href="https://github.com/fabiolafaria/">Fabiola</a>
-                </p>
-                <div class="clearfix"></div>
-            </div>
-
-        </div>
-
-    </footer>
-    <!-- End Footer
-    ================================================== -->
-
+    
+    {% include footer.html %}
     
 </div> <!-- /.site-content>
 
