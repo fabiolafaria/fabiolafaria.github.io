@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
-author: sal
+title:  "Storytelling em Marketing Digital"
+author: Fabi
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
