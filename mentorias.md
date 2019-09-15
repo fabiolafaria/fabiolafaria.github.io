@@ -13,6 +13,9 @@ Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começ
 
 <div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Quero saber mais</a></h2></div>
 
+
+
+
 ## Mentorias de Google Analytics
 
 Trabalhamos com clientes em todas as etapas do ciclo de vida de sua estrat&eacute;gia, desde a configura&ccedil;&atilde;o de sua ferramenta de Web Analytics at&eacute; a **Intelig&ecirc;ncia Digital avan&ccedil;ada para otimiza&ccedil;&atilde;o de convers&atilde;o**. Dessa forma acreditamos que uma estrat&eacute;gia bem estruturada deve ser orientada a dados para trazer os melhores resultados. Os benef&iacute;cios da estrat&eacute;gia de marketing orientada a dados s&atilde;o significativos: garante segmenta&ccedil;&otilde;es mais relevantes, tr&aacute;fego mais qualificado, compras de m&iacute;dias mais eficientes, e aumento significativo no ROI do seu neg&oacute;cio. E esse &eacute; o resultado que queremos!
