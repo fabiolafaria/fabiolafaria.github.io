@@ -47,7 +47,6 @@ jekyll-archives:
   layout: archive
   permalinks: /:title/
     category: '/category/:name/'
-  paginate: 3
     
 # Other
 markdown: kramdown
