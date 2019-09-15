@@ -1,9 +1,10 @@
 ---
-layout: page
-title: Sobre Mim
-comments: true
+layout: blog
+metatitle: Experiência. Paixão. Resultados | SEOAnalytics
+title: Fabíola Faria
+subtitle: 'This is my site. This is my Experience'
+img: data-analytics.jpg
 ---
-
 
 I am a qualified and highly experienced specialist in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil. During this period I gained valuable experience in leading technical teams.&nbsp;
 

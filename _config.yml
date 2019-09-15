@@ -1,0 +1,80 @@
+# Site settings
+title: SEO com Dados. Inteligênica Digital | SEOAnalytics
+description: Encontre os melhores consultores de SEO, Data Analytics e Marketing de Performance. Nós te ajudamos a encontrar um consultor data-driven para trazer os melhores resultados de conversão com o melhor custo benefício para seu negócio.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://seoanalytics.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+disqus-identifier: seoanalytics-2
+
+collections:
+  projects:
+    output: true
+  links:
+    output: true
+  music:
+    output: true
+  stories:
+    output: true        
+    
+jekyll-archives:
+  enabled:
+    - "categories"
+    
+# Build settings
+markdown: kramdown
+paginate: 3
+paginate_path: "/:num/"
+permalink: /:title/
+
+    
+    
+# Banner Section
+hero: 112.jpg
+hero-title: 
+hero-description: 
+
+# Social Media Links (Links are located in hero and footer)
+twitter: 
+facebook: 
+google-plus:
+instagram: 
+pinterest: 
+youtube: 
+
+# Author - Creator
+author-name: Fabíola Faria
+author-image: fabiola-faria-low-carb.jpeg
+about-author: Mais de 9 anos de experiência com SEO e Data Analytics. Em sua experiência já obteve crescimento de +500% no tráfego mensal orgânico, e contribuindo com estratégias que colocaram o site em 1ª posição nos principais termos de busca.
+author-email: fabiola.analytics@gmail.com
+author-twitter: https://twitter.com/fabiola_faria   
+author-facebook: https://twitter.com/fabiola.faria  
+author-instagram: https://www.instagram.com/fabilowcarb
+author-pinterest: https://pinterest.com/
+
+# Other Authors - here you can add Other authors. For example Natali_Braxton
+authors:
+  Natali_Braxton:
+    author-name: 
+    author-image: 
+    about-author: 
+    author-email: 
+    author-twitter: 
+    author-facebook:
+    author-instagram: 
+    author-pinterest: 
+    
+plugins:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-archives"
+  - "jekyll-redirect-from"
+  - "jekyll-compress-images"
+  - "jekyll-sitemap"
+  - "jekyll-google-tag-manager"
+  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+    
