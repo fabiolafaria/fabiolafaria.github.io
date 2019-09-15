@@ -20,4 +20,4 @@ Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começ
 
 Em breve mais informações sobre as novas turmas de Mentorias de Google Analytics. Se você já está interessado em saber como configurar e usar o Google Analytics no seu site, e como criar  Dashboards funcionais pelo Google Data Studio integrando Google Search Console e Google Analytics mande seu email e enviaremos mais informações.
 
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Saiba mais</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Entre em contato</a></h2></div>
