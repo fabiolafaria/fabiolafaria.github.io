@@ -1,7 +1,7 @@
 ---
 layout: page
-metatitle: Consultoria de SEO e Data Analytics | SEOAnalytics
-title: Consultoria de Marketing Digital
+metatitle: Mentorias de SEO e Data Analytics | SEOAnalytics
+title: Mentorias de SEO & Data Analytics
 subtitle: 'Especializada em SEO, Performance, e Data Analytics.
 redirect_from:
     - /consultoria/bianca-alvarenga-seo-marketing/
