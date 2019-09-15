@@ -3,6 +3,7 @@ layout: page
 metatitle: Mentorias de SEO e Data Analytics | SEOAnalytics
 title: Mentorias de SEO & Data Analytics
 subtitle: 'Especializada em SEO, Performance, e Data Analytics.
+img: ipad-605440-1920.jpg
 redirect_from:
 
 ---
