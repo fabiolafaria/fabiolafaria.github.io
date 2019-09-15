@@ -3,8 +3,7 @@ layout: post
 title: Storytelling em Marketing Digital
 author: Fabi
 categories:
-  - Jekyll
-  - tutorial
+  - Marketing Digital
 image:
 ---
 
