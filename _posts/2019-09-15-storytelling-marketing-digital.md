@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: blog
 title: Storytelling em Marketing Digital
 permalink: /storytelling-marketing-digital/
-author: Fabi
+img: ipad-605440-1920.jpg
+tags:
+  - SEO
 categories:
   - Marketing Digital
-image:
-featured: false
+redirect_from:
 ---
 
 *Storytelling* &eacute; um termo em ingl&ecirc;s, que significa ‘narrativa’, para contextualizar melhor, e significa 'contar hist&oacute;rias', mas se voc&ecirc; quer aplicar o conceito na sua estrat&eacute;gia, digo j&aacute;: n&atilde;o adianta ser qualquer historinha, voc&ecirc; precisa contar boas hist&oacute;rias.
