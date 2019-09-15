@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post
 title: Storytelling em Marketing Digital
 permalink: /storytelling-marketing-digital/
 author: Fabi
