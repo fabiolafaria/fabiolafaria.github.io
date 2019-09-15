@@ -8,9 +8,11 @@ categories:
 image:
 ---
 
-*Storytelling* &eacute; um termo em ingl&ecirc;s, que significa ‘narrativa’, para contextualizar melhor, e significa contar hist&oacute;rias, mas se voc&ecirc; quer aplicar o conceito na sua estrat&eacute;gia, digo j&aacute;: n&atilde;o adianta ser qualquer historinha, voc&ecirc; precisa contar boas hist&oacute;rias.
+*Storytelling* &eacute; um termo em ingl&ecirc;s, que significa ‘narrativa’, para contextualizar melhor, e significa 'contar hist&oacute;rias', mas se voc&ecirc; quer aplicar o conceito na sua estrat&eacute;gia, digo j&aacute;: n&atilde;o adianta ser qualquer historinha, voc&ecirc; precisa contar boas hist&oacute;rias.
 
 &Eacute; sabido que os seres humanos t&ecirc;m mais facilidade de aprender, prestar aten&ccedil;&atilde;o e se envolver quando existe uma hist&oacute;ria sendo contada.&nbsp;
+
+![Storytelling em marketing digital - Photo by Chris Leggat on Unsplash](/uploads/storytelling-marketing-digital-unsplash.jpg){: width="5184" height="3456"}
 
 Por esta raz&atilde;o o storytelling &eacute; uma ferramenta t&atilde;o poderosa quando pensamos em marketing, as emo&ccedil;&otilde;es que s&atilde;o ativadas quando falamos de hist&oacute;rias fazem a diferen&ccedil;a na maneira que os clientes se relacionam com seu produtos e sua marca.
 
