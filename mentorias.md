@@ -4,6 +4,7 @@ metatitle: Mentorias de SEO e Data Analytics | SEOAnalytics
 title: Mentorias de SEO & Data Analytics
 subtitle: 'Especializada em SEO, Performance, e Data Analytics.
 redirect_from:
+
 ---
 
 ## Mentorias de SEO para Iniciantes
