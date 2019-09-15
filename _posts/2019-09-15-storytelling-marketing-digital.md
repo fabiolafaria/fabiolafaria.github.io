@@ -2,7 +2,7 @@
 layout: blog
 title: Storytelling em Marketing Digital
 permalink: /storytelling-marketing-digital/
-img: seo-planejamento.jpg
+img: digital-marketing-pixabay.jpg
 tags:
   - SEO
 categories:
