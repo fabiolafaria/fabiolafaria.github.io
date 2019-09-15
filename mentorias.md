@@ -16,7 +16,7 @@ Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começ
 
 
 
-## Mentorias de Data Analytics [NEW!]
+## [NEW!] Mentorias de Data Analytics 
 
 Em breve mais informações sobre as novas turmas de Mentorias de Google Analytics. Se você já está interessado em saber como configurar e usar o Google Analytics no seu site, e como criar  Dashboards funcionais pelo Google Data Studio integrando Google Search Console e Google Analytics mande seu email e enviaremos mais informações.
 
