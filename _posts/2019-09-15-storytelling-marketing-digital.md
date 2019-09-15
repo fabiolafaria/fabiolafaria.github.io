@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Storytelling em Marketing Digital
 author: Fabi
-post_class: post-template
 categories:
   - Marketing Digital
 image:
