@@ -34,31 +34,6 @@ title: SEO e Data Analytics Expert | Fabiola Faria
     </div>
 </section>
 
-
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Mentorias</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
-</section>
-
 <!-- Posts Index
 ================================================== -->
 {% if paginator.previous_page %}
@@ -69,7 +44,7 @@ title: SEO e Data Analytics Expert | Fabiola Faria
 
 <section class="featured-posts">
         <div class="section-title">
-            <h2><span>Novidades</span></h2>    
+            <h2><span>Blog</span></h2>    
         </div>
 
         <div class="row listfeaturedtag">
@@ -96,5 +71,28 @@ title: SEO e Data Analytics Expert | Fabiola Faria
             </span>
 
         </div>
+
+</section>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Mentorias de Marketing Digital</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
 
 </section>
