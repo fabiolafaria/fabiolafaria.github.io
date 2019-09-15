@@ -6,7 +6,7 @@ meta_description:
 logo: "Fabiola Faria"
 favicon: 'assets/images/favicon.png'
 paginate: 12
-baseurl: 
+baseurl: 'https://fabiolafaria.com.br'
 email: 'fabiola@seoanalytics.com.br'
 google_analytics: ''
 disqus: 'seoanalytics'
