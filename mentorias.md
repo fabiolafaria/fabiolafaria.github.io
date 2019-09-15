@@ -8,7 +8,7 @@ redirect_from:
 
 ## Mentorias de SEO para Iniciantes
 
-Quer saber como aumentar 
+Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começar? Se você precisa criar um plano estratégico de SEO para seu site então você está no lugar certo! 
 
 <div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Saiba mais</a></h2></div>
 
