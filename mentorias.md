@@ -16,8 +16,8 @@ Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começ
 
 
 
-## Mentorias de Google Analytics
+## Mentorias de Data Analytics [NEW!]
 
-Trabalhamos com clientes em todas as etapas do ciclo de vida de sua estrat&eacute;gia, desde a configura&ccedil;&atilde;o de sua ferramenta de Web Analytics at&eacute; a **Intelig&ecirc;ncia Digital avan&ccedil;ada para otimiza&ccedil;&atilde;o de convers&atilde;o**. Dessa forma acreditamos que uma estrat&eacute;gia bem estruturada deve ser orientada a dados para trazer os melhores resultados. Os benef&iacute;cios da estrat&eacute;gia de marketing orientada a dados s&atilde;o significativos: garante segmenta&ccedil;&otilde;es mais relevantes, tr&aacute;fego mais qualificado, compras de m&iacute;dias mais eficientes, e aumento significativo no ROI do seu neg&oacute;cio. E esse &eacute; o resultado que queremos!
+Em breve mais informações sobre as novas turmas de Mentorias de Google Analytics. Se você já está interessado em saber como configurar e usar o Google Analytics no seu site, e como criar  Dashboards funcionais pelo Google Data Studio integrando Google Search Console e Google Analytics mande seu email e enviaremos mmais informações.
 
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="/sobre/">Saiba mais</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Saiba mais</a></h2></div>
