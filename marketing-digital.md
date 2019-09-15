@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: blog
 metatitle: SEO e Data Analytics | Fabiola Faria
 title: SEO e Data Analytics
 subtitle: 'SEO, Estratégia Digital e Data Analytics.'
-redirect_from:
+img: 
 ---
 
 {% for post in site.posts  %}
