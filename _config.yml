@@ -1,8 +1,8 @@
 # Site settings
-title: SEO com Dados. Inteligênica Digital | SEOAnalytics
-description: Encontre os melhores consultores de SEO, Data Analytics e Marketing de Performance. Nós te ajudamos a encontrar um consultor data-driven para trazer os melhores resultados de conversão com o melhor custo benefício para seu negócio.
+title: SEO & Data Analytics | Fabiola Faria
+description: Fabiola Faria é Google Marketing Expert especialista em SEO, Google Analytics e Google Data Studio. Fique por dentro de Estratégias de Search Engine Marketing orientadas a Dados.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://seoanalytics.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fabiolafaria.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 disqus-identifier: seoanalytics-2
 
 collections:
