@@ -4,9 +4,6 @@ metatitle: SEO e Data Analytics | Fabiola Faria
 title: Fique por dentro de SEO e Data Analytics
 subtitle: 'SEO, Estratégia Digital e Data Analytics.'
 redirect_from:
-    - /blog/marketing-digital/
-    - /blog/storytelling
-    - /blog/seo/
 ---
 
 {% for post in site.posts  %}
