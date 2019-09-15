@@ -6,6 +6,7 @@ author: Fabi
 categories:
   - Marketing Digital
 image:
+featured: false
 ---
 
 *Storytelling* &eacute; um termo em ingl&ecirc;s, que significa ‘narrativa’, para contextualizar melhor, e significa 'contar hist&oacute;rias', mas se voc&ecirc; quer aplicar o conceito na sua estrat&eacute;gia, digo j&aacute;: n&atilde;o adianta ser qualquer historinha, voc&ecirc; precisa contar boas hist&oacute;rias.
