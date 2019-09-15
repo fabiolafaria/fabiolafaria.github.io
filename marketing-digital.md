@@ -1,7 +1,7 @@
 ---
 layout: page
 metatitle: SEO e Data Analytics | Fabiola Faria
-title: Fique por dentro de SEO e Data Analytics
+title: SEO e Data Analytics
 subtitle: 'SEO, Estratégia Digital e Data Analytics.'
 redirect_from:
 ---
