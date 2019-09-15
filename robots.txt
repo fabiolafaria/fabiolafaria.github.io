@@ -7,4 +7,4 @@ Disallow: /canon/
 Disallow: /now/
 Disallow: /treinamentos/
 
-Sitemap: https://seoanalytics.com.br/sitemap.xml
+Sitemap: https://fabiolafaria.com.br/sitemap.xml
