@@ -9,11 +9,9 @@ redirect_from:
 
 ## Mentorias de SEO
 
-Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começar? Se você precisa criar um plano estratégico de SEO para seu site então você está no lugar certo! A próxima turma de Mentoria de SEO para Iniciantes começa em Outubro. Você quer saber mais? Entre em contato diretamente pelo Instagram <a href="https://www.instagram.com/fabiolafaria_/">@fabiolafaria_</a>
+Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começar? Se você precisa criar um plano estratégico de SEO para seu site então você está no lugar certo! A próxima turma de Mentoria de SEO para Iniciantes começa em Outubro. Você quer saber mais? Entre em contato diretamente pelo Instagram <a href="https://www.instagram.com/fabiolafaria_/">@fabiolafaria_</a> ou <a href="https://www.linkedin.com/in/fabiolafaria/">Linkedin</a>.
 
-
-
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Saiba mais</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Quero saber mais</a></h2></div>
 
 ## Mentorias de Google Analytics
 
