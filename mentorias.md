@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-## Mentorias de SEO
+## Mentorias Gratuitas de SEO
 
 Quer aumentar a visibilidade orgânica do seu site mas não sabe por onde começar? Se você precisa criar um plano estratégico de SEO para seu site então você está no lugar certo! A próxima turma de Mentoria de SEO para Iniciantes começa em Outubro. Você quer saber mais? Entre em contato diretamente pelo Instagram <a href="https://www.instagram.com/fabiolafaria_/">@fabiolafaria_</a> ou <a href="https://www.linkedin.com/in/fabiolafaria/">Linkedin</a>. Turmas com Vagas Limitadas!
 
