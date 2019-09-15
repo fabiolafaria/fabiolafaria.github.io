@@ -10,5 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '1.2.0'
   gem 'jekyll-redirect-from'
   gem 'jekyll-google-tag-manager'
-  gem 'netlify-cms'
+  gem 'jekyll-admin'
 end
