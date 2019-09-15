@@ -1,6 +1,7 @@
 ---
 layout: post-right-sidebar
 title: Storytelling em Marketing Digital
+permalink: /storytelling-marketing-digital/
 author: Fabi
 categories:
   - Marketing Digital
