@@ -44,7 +44,7 @@ Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, c
 Atuo h&aacute; mais de 10 anos em Marketing Digital. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Especialista em SEO](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin :)
 
 <div class="mw6 center tc contactbox">
-<div class="LI-profile-badge"  data-version="v1" width="630px" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href='https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge'>Fabiola Faria</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href='https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge'>Fabiola Faria</a></div>
 </div>
 
 Primeira turma de 2020 &eacute; somente para mulheres e come&ccedil;a em 20 de Janeiro \! Se voc&ecirc; estiver interessada por favor me manda um Direct no Instagram at&eacute; dia 16 de Janeiro que adiciono na lista de Close Friends\! Espero conversar com voc&ecirc;s em breve\! 💋
