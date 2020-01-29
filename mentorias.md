@@ -61,18 +61,16 @@ Por favor apenas mandar mensagem no Direct pelo Insta.
 
 &nbsp;
 
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Quero saber mais</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Quero saber mais</a></h2></div>
 
 &nbsp;
 
-## \[NEW\!\] Mentorias de Data Analytics
+&nbsp;
+
+## \[NEW\!\] Mentorias de Data Analytics 2020
 
 &nbsp;
 
-Em breve mais informa&ccedil;&otilde;es sobre as novas turmas de Mentorias de Google Analytics. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, e como criar Dashboards funcionais pelo Google Data Studio integrando Google Search Console e Google Analytics mande seu email e enviaremos mais informa&ccedil;&otilde;es.
-
-&nbsp;
-
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Entre em contato</a></h2></div>
+Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Mentorias de Google Analytics. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, e como criar Dashboards funcionais pelo Google Data Studio integrando Google Search Console e Google Analytics mande seu email e enviaremos mais informa&ccedil;&otilde;es.
 
 &nbsp;
