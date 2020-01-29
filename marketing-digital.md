@@ -1,8 +1,8 @@
 ---
 layout: blog
 metatitle: SEO e Data Analytics Blog | Fabiola Faria
-title: SEO e Data Analytics Blog
-subtitle: 'Blog de SEO, Estratégia Digital e Data Analytics.'
+title: Marketing Digital aos pouquinhos...
+subtitle: 'Um Blog de Marketing Digital que um dia encontro tempo para postar'
 img: planejamento-estrategico-seo.jpg
 ---
 
