@@ -7,6 +7,8 @@ img: data-analytics.jpg
 
 ---
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ## Mentorias Gratuitas 2020
 
 Ol&aacute; Meninas\! Aten&ccedil;&atilde;o pra quem procura saber mais sobre Marketing Digital na Europa\!
