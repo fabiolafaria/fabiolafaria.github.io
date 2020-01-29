@@ -3,6 +3,8 @@
 
 {% include head.html %}
 
+{% include cookie-consent.html %}
+
 if(readCookie('cookie-notice-dismissed')=='true') {
     {% include googleanalytics.html %}
 }
@@ -11,7 +13,7 @@ if(readCookie('cookie-notice-dismissed')=='true') {
 
 {% include hero.html %}
 
-{% include cookie-consent.html %}
+
 
 <!-- 
 <div class="fw8 f2-l f3 tc ma0 pa0 pt4"><h2>SEO & Data Analytics</h2></div>
