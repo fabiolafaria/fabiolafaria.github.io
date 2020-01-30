@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}Fabiola Faria | SEO & Data Analytics Expert{% endif %}</title>
-    <meta name="description" content="Fabiola Faria é Google Marketing Expert especialista em SEO, Google Analytics e Google Data Studio. Fique por dentro de Estratégias de Search Engine Marketing orientadas a Dados.">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">>
 
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800' rel='stylesheet' type='text/css'>
 
