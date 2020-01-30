@@ -1,6 +1,6 @@
 ---
 layout: blog
-metatitle: Mentorias de SEO e Data Analytics | Marketing Digital
+metatitle: Mentorias de Marketing Digital | Mentorias para Empreendedores
 title: Mentorias de SEO & Data Analytics
 subtitle: 'Mentorias de Marketing Digital'
 img: data-analytics.jpg
@@ -67,10 +67,10 @@ Por favor apenas mandar mensagem no Direct pelo Insta.
 
 &nbsp;
 
-## \[NEW\!\] Mentorias de Data Analytics 2020
+## \[NEW\!\] Mentorias para Empreendedores 2020
 
 &nbsp;
 
-Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Mentorias de Google Analytics. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, e como criar Dashboards funcionais pelo Google Data Studio integrando Google Search Console e Google Analytics mande seu email e enviaremos mais informa&ccedil;&otilde;es.
+Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Mentorias para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como otimizar seu negócio para aparecer nos resultados do Google, como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato!
 
 &nbsp;
