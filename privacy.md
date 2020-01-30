@@ -7,10 +7,6 @@ subtitle: How we protect your data
 
 ## Privacy Policy
 
-&nbsp;
-
-## How we process your data
-
 This website is powered by Jekyll, Formspree and CloudCannon and is hosted on GitHub. CloudCannon is only used as external CMS. No traffic or visitor data ends up at CloudCannon or their partners. Github, however, (like any hosting company) can have full insight in visitor data, like connecting IP addresses, visited pages, etc. Note that Github is not known to actively profile visitors. By using a VPN you can (try to) prevent this.
 
 ### Google Analytics
