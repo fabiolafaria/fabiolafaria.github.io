@@ -1,7 +1,7 @@
 ---
 layout: blog
 metatitle: Mentorias de Marketing Digital | Mentorias para Empreendedores
-metadescription: Participe das Mentorias de Marketing Digital e Mentorias para Empreendedores com Search Engine Marketing Expert. Entre em contato para saber mais sobre as Mentorias 2020.
+metadesc: Participe das Mentorias de Marketing Digital e Mentorias para Empreendedores com Search Engine Marketing Expert. Entre em contato para saber mais sobre as Mentorias 2020.
 title: Mentorias de SEO & Data Analytics
 subtitle: 'Mentorias de Marketing Digital'
 img: data-analytics.jpg
