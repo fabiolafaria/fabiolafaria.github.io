@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 metatitle: Termos & Privacidade | Fabiola Faria
 title: Privacy Policy
 subtitle: How we protect your data
