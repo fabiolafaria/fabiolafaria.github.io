@@ -1,6 +1,6 @@
 ---
 layout: blog
-metatitle: Mentorias de SEO e Data Analytics | SEOAnalytics
+metatitle: Mentorias de SEO e Data Analytics | Marketing Digital
 title: Mentorias de SEO & Data Analytics
 subtitle: 'Mentorias de Marketing Digital'
 img: data-analytics.jpg
