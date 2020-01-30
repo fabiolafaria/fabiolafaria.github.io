@@ -28,7 +28,7 @@
  <meta property="og:type"   content="article" />
  <meta property="og:url"    content="{{page.url}}" />
  <meta property="og:title"  content="{% if page.title %}{{page.title}}{% else %}SEOAnalytics{% endif %}" />
- <meta property="og:image"  content="{{page.img}}" />
+ <meta property="og:image"  content="url({{"/images/" | prepend: site.baseurl | append: page.img}}" />
  <meta property="og:image:width"  content="600" />
  <meta property="og:image:height"  content="315" />
 
