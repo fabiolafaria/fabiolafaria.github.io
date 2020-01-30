@@ -1,9 +1,8 @@
 ---
 layout: blog
-metatitle: Experiência. Paixão. Resultados | SEOAnalytics
-title: Fabíola Faria
-subtitle: 'This is my site. This is my Experience'
-img: data-analytics.jpg
+metatitle: Termos & Privacidade | Fabiola Faria
+title: Privacy Policy
+subtitle: How we protect your data
 ---
 
 ## Privacy Policy
