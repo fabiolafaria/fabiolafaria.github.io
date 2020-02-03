@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: 'SEO Marketing: tudo que você precisa saber'
 permalink: /mentorias-seo-marketing-online/
 categories:
