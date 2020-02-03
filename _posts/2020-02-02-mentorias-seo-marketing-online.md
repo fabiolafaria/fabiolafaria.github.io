@@ -7,7 +7,7 @@ categories:
 author_staff_member:
 show_comments: true
 date: 2020-02-02 00:00:00
-img:
+img: ipad-605440-1920.jpg
 tags:
   - SEO
 redirect_from:
