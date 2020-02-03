@@ -1,5 +1,6 @@
 ---
 title: 'SEO Marketing: tudo que você precisa saber'
+permalink: /mentorias-seo-marketing-online/
 categories:
   - Marketing Digital
 author_staff_member:
