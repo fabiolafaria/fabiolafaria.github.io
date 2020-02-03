@@ -17,7 +17,9 @@ Conseguir mais acessos no seu site, atrair mais clientes, fechar mais vendas, co
 
 Como o comportamento de consumo mudou ao longo dos anos, os buscadores como o Google se tomaram a principal fonte de pesquisa de quem quer se informar antes de bater o martelo na hora de efetuar sua compra.&nbsp;
 
-Importante na estrat&eacute;gia de qualquer empresa, o **SEO marketing** bem feito pode ser a diferen&ccedil;a entre lucro ou n&atilde;o no fim do ano. E isso n&atilde;o vale apenas para empresas de e-commerce e lojas virtuais, hoje em dia as pessoas usam a internet para pesquisar fornecedores, prestadores de servi&ccedil;o e at&eacute; locais de restaurantes e sal&otilde;es de beleza.
+Importante na estrat&eacute;gia de qualquer empresa, o **SEO marketing** bem feito pode ser a diferen&ccedil;a entre lucro ou n&atilde;o no fim do ano. E isso n&atilde;o vale apenas para empresas de e-commerce e lojas virtuais, hoje em dia as pessoas usam a internet para pesquisar fornecedores, prestadores de servi&ccedil;o e at&eacute; contactar pequenos neg&oacute;cios atrav&eacute;s do Google My Business.
+
+Seu neg&oacute;cio j&aacute; est&aacute; no Google? se ainda n&atilde;o, vem que eu te ajudo a entender um pouco mais sobre o papel do&nbsp;**SEO em marketing digital**\!
 
 ## SEO marketing digital
 
