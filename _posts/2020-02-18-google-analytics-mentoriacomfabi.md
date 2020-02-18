@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: Storytelling em Marketing Digital
-permalink: /storytelling-marketing-digital/
+title: 'Google Analytics #MentoriacomFabi'
+permalink: /google-analytics-mentorias-fabi/
 img: digital-marketing-pixabay.jpg
 tags:
-  - SEO
+  - Google Analytics
 categories:
   - Marketing Digital
 redirect_from:
