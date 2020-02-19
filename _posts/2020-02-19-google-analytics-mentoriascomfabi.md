@@ -16,20 +16,24 @@ Ol&aacute; meninas\! Esta semana preparei um guia para nosso conte&uacute;do da 
 * Estrutura da conta no Google Analytics
 * Defini&ccedil;&atilde;o dos objetivos do seu neg&oacute;cio
 * Metas no Google Analytics
-* Relatórios na prática 
+* Relat&oacute;rios na pr&aacute;tica
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKY9oaqksPeUrw9uDV7ZS--TJkXLGx1L7rAoZWr3RgY-LDjeF--9QeeuEnjtTaEjg4uujQzTg2KGMp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKY9oaqksPeUrw9uDV7ZS--TJkXLGx1L7rAoZWr3RgY-LDjeF--9QeeuEnjtTaEjg4uujQzTg2KGMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Aten&ccedil;&atilde;o: Se voc&ecirc; ver esse conte&uacute;do depois disso, n&atilde;o fique triste\! Teremos uma segunda turma de mentoria (provavelmente) em Maio de 2020. Me segue no Instagram, ou me adicione por aqui no Linkedin para ficar por dentro das novidades para as pr&oacute;ximas **mentorias de Marketing Digital\!**
+## Mentorias de Google Analytics&nbsp;
 
-**Novo Update\! 29/Jan:** Pedidos ainda est&atilde;o chegando para participar da mentoria que teve in&iacute;cio dia 20 de Janeiro. Infelizmente os grupos para atendimento j&aacute; est&atilde;o no limite, mas como os **Conte&uacute;dos est&atilde;o dispon&iacute;veis em Destaques** (enquanto o Instagram me permitir subir :) resolvi abrir para quem quiser acompanhar por l&aacute; os Conte&uacute;dos, Dicas, Desafios, etc.
+**Aten&ccedil;&atilde;o:** Os conte&uacute;dos da mentoria s&atilde;o disponibilizados toda semana pelo [Close Friends no Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"}. As mentorias come&ccedil;aram em Janeiro/2020 e est&atilde;o em andamento desde ent&atilde;o, mas se voc&ecirc; quer acessar os conte&uacute;dos dispon&iacute;veis nos destaques, entre em contato\!&nbsp;
 
-Por favor apenas mandar mensagem no Direct pelo Insta.
-
-<bold></bold>
+Para ficar por dentro das novidades para as pr&oacute;ximas **mentorias de Marketing Digital acompanhe no Instagram ou no Linkedin\!**
 
 &nbsp;
 
+<bold></bold>
+
 <div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Participe da Mentoria</a></h2></div>
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
