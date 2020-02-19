@@ -17,4 +17,4 @@ Ol&aacute; meninas\! Esta semana preparei um guia para nosso conte&uacute;do da 
 * Defini&ccedil;&atilde;o dos objetivos do seu neg&oacute;cio
 * Metas no Google Analytics
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKY9oaqksPeUrw9uDV7ZS--TJkXLGx1L7rAoZWr3RgY-LDjeF--9QeeuEnjtTaEjg4uujQzTg2KGMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKY9oaqksPeUrw9uDV7ZS--TJkXLGx1L7rAoZWr3RgY-LDjeF--9QeeuEnjtTaEjg4uujQzTg2KGMp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
