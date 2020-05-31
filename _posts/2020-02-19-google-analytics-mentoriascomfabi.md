@@ -22,7 +22,7 @@ Ol&aacute; meninas\! Esta semana preparei um guia para nosso conte&uacute;do da 
 
 ## Mentorias de Google Analytics&nbsp;
 
-**Aten&ccedil;&atilde;o:** Os conte&uacute;dos da mentoria s&atilde;o disponibilizados toda semana pelo [Close Friends no Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"}. As mentorias come&ccedil;aram em Janeiro/2020 e est&atilde;o em andamento desde ent&atilde;o, mas se voc&ecirc; quer acessar os conte&uacute;dos dispon&iacute;veis nos destaques, entre em contato\!&nbsp;
+**Aten&ccedil;&atilde;o:** Os conte&uacute;dos da mentoria s&atilde;o disponibilizados toda semana pelo [Close Friends no Instagram](https://www.instagram.com/fabitalks/){: target="_blank"}. As mentorias come&ccedil;aram em Janeiro/2020 e est&atilde;o em andamento desde ent&atilde;o, mas se voc&ecirc; quer acessar os conte&uacute;dos dispon&iacute;veis nos destaques, entre em contato\!&nbsp;
 
 Para ficar por dentro das novidades da **mentoria de Marketing Digital** acompanhe no [Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"} ou no [Linkedin](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}\!
 
@@ -30,7 +30,7 @@ Para ficar por dentro das novidades da **mentoria de Marketing Digital** acompan
 
 <bold></bold>
 
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Participe da Mentoria</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabitalks/">Participe</a></h2></div>
 
 &nbsp;
 
