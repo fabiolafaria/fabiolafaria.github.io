@@ -62,7 +62,7 @@ Por favor apenas mandar mensagem no Direct pelo Insta.
 
 &nbsp;
 
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabitalks/">Quero saber mais</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Quero saber mais</a></h2></div>
 
 &nbsp;
 
