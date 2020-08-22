@@ -14,7 +14,7 @@ img: data-analytics.jpg
 
 Ol&aacute; Meninas\! Aten&ccedil;&atilde;o pra quem procura saber mais sobre Marketing Digital na Europa\!
 
-Retornamos em Janeiro de 2020 com as **Mentorias de Marketing Digital s&oacute; para mulheres\!** Teremos conte&uacute;dos exclusivos e gratuitos no [Close Friends do Instagram](https://www.instagram.com/fabitalks/){: target="_blank"}. Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;m de oportunidades de Carreira nessas &aacute;reas aqui na Europa essa &eacute; a sua oportunidade\!
+Retornamos em Janeiro de 2020 com as **Mentorias de Marketing Digital s&oacute; para mulheres\!** Teremos conte&uacute;dos exclusivos e gratuitos no [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"}. Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;m de oportunidades de Carreira nessas &aacute;reas aqui na Europa essa &eacute; a sua oportunidade\!
 
 Quais t&oacute;picos podem ser abordados?
 
