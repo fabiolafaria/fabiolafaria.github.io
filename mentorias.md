@@ -44,21 +44,23 @@ Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória 
 
 Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Marketing Digital normalmente s&atilde;o:
 
-* O que estudar e se preparar para o mercado de Marketing Digital?
+* O que estudar e se preparar para o mercado de Marketing Digital no Exterior?
 * Onde tirar certifica&ccedil;&otilde;es gratuitas e online que s&atilde;o bem valorizadas no mercado?
 * Quais s&atilde;o as oportunidades de carreira fora?
 * Quais &aacute;reas de Marketing Digital posso focar?
 * Quais Ferramentas necess&aacute;rias para conquistar a tão sonhada vaga
 * Como come&ccedil;ar aprendendo sobre Marketing Digital?
 * Quais melhores Plataformas de Conte&uacute;dos?
-* Quais ferramentas do Google me aprimorar?
-* Atualiza&ccedil;&otilde;es do Google, Instagram, Facebook, Linkedin, etc
-* Como concorrer a vagas at&eacute; mesmo sem Experi&ecirc;ncia Anterior?
-* Melhores refer&ecirc;ncias de Marketing Digital, etc
+* Quais ferramentas do Google devo aprimorar?
+* Atualiza&ccedil;&otilde;es do Google, Analytics, Social Media, etc
+* Como concorrer a vagas at&eacute; mesmo sem Experi&ecirc;ncia anterior?
+* Refer&ecirc;ncias no mercado de Marketing Digital, etc
 
 ## Por que participar de Mentorias?
 
-Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, com muitas oportunidades de vagas abertas todos os dias. Sendo assim, poderei ajudar voc&ecirc;s a se prepararem pra ele, e at&eacute; mesmo focar em projetos pessoais como neg&oacute;cios pr&oacute;prios, e em troca voc&ecirc;s acabam me ajudando a aprimorar as t&eacute;cnicas de treinamentos com Feedbacks frequentes sobre os conte&uacute;dos abordados.
+Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, com muitas oportunidades de vagas abertas todos os dias. Sendo assim, poderei ajudar voc&ecirc;s a se prepararem pra ele, e at&eacute; mesmo focar em projetos pessoais como neg&oacute;cios pr&oacute;prios, além de ajudar a revisar t&eacute;cnicas de Entrevistas com Feedbacks e recomendar melhorias no currículo direcionando para a vaga desejada. 
+
+É importante lembrar que a Mentoria é uma forma de direcionar o mentorando, esclarecer dúvidas frequêntes em relacao as oportunidades que estão buscando, e informar sobre as expectativas da Carreira. Se vocë tem muitas dúvidas sobre esse mercado ainda, então esse é o momento certo para você esclarecer todas suas dúvidas!
 
 ## Se voc&ecirc; ainda n&atilde;o me conhece\!
 
