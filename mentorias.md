@@ -39,20 +39,17 @@ O nosso encontro vai ser individualizado e de forma 100% online, atraves de vide
 
 
 Mas Fabi antes voce fazia em grupos, isso mudou? Sim, inicialmente para poder ajud&aacute;-las por 1 m&ecirc;s em qualquer que era a d&uacute;vida relacionada a **Marketing Digital (SEM, Social Media, Web Analytics, etc)** eu testava o formato [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"} e disponibilizava conte&uacute;dos exclusivos de v&iacute;deos e o nosso contato era atraves de chat em grupos. Apos um mes testando esse formato, a demanda de perguntas diminuia ao longo do tempo, e muitas pessoas desistiam de acompanhar apos a segunda semana. Muitas pessoas sentiam vergonha de perguntar conceitos basicos, e nesse formato nao havia a disponibilidade de encontros individuais e na maioria das vezes as pessoas nao participavam dos grupos, senao mandavam mensagens direta perguntando. Entao eu entendi que para ajudar com algum problema eu tinha que me dedicar inteiramente para aquela pessoa, aquele problema e fazer um atendimento diferenciado para cada dor. Na falta de disponibilidade de horas durante o periodo de aulas do meu Mestrado em Inteligencia Artificial, eu pausei todas as mentorias.
-
-
+&nbsp;
 Felizmente as aulas do mestrado acabaram em Setembro deste ano, e desde entao venho trabalhand num formato totalmente individualizado com conteudos atualizados para atender todas as novas Mentorandas de forma a auxiliar da melhor forma a trilhar uma carreira de Sucesso em Marketing Digital.
-
-
+&nbsp;
 O que tambem significa que nao teremos mais mentorias em formato de grupo nesse momento, e ha um investimento para o comprometimento com o conteudo entregado. Se voce nao possui condicoes de pagar sua mentoria nesse momento, saiba que ainda temos 3 vagas disponiveis para mentorias totalmente gratuitas, com 100% do valor do investimento patrocinado e voce tambem tera acesso a todo o material que inclui durante a oferta vigente. Para tentar uma vaga gratuita voce precisa entrar em contanto comigo atraves do email e contar seu caso e como a mentoria pode te auxiliar nesse momento. As mentorias gratuitas serao reservadas apenas para aqueles que nao possuem condicoes financeiras de custear o valor total da mentoria, mas cada caso e avaliado conforme o email enviado.  
-
+&nbsp;
 Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória aqui e saiba mais sobre minha experiencia trabalhando com Marketing Digital no Exterior\!
-
-
+&nbsp;
 ## Fabi, quais t&oacute;picos podem ser abordados?
-
+&nbsp;
 Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Marketing Digital normalmente s&atilde;o:
-
+&nbsp;
 * O que estudar e se preparar para o mercado de Marketing Digital?
 * Onde tirar certifica&ccedil;&otilde;es gratuitas e online que s&atilde;o bem valorizadas no mercado?
 * Quais s&atilde;o as oportunidades de carreira fora?
@@ -74,16 +71,10 @@ Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, c
 
 Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engine e Analise de Dados. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Especialista em SEO](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin :)
 &nbsp;
-
 <div class="mw6 center tc contactbox"><div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href="https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge">Fabiola Faria</a></div></div>
-
-
 &nbsp;
-
 <div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Quero saber mais</a></h2></div>
-
 &nbsp;
-
 ## \[NEW\!\] Consultoria para Empreendedores na Irlanda
 Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Consultoria de Dados para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato para saber mais\!
 &nbsp;
