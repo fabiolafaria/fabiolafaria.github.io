@@ -16,7 +16,7 @@ Ol&aacute; Meninas\! Aten&ccedil;&atilde;o pra quem procura saber mais sobre Mar
 
 Finalmente depois de 2 anos sem Mentorias, Retornamos agora em Novembro com as **Mentorias de Marketing Digital s&oacute; para Estudantes de Marketing no Exterior\!** 
 
-Muita coisa aconteceram nesses últimos dois anos, não e mesmo? Então, teremos conte&uacute;dos exclusivos e muitas dicas de Entrevistas compartilhadas com vocês que se escreverem ate o dia 25 de Novembro de 2022, além de ter um canal de comunicação direta para qualquer dúvida que quiserem tirar após as mentorias. 
+Muita coisa aconteceram nesses últimos dois anos, não e mesmo? Então, teremos conte&uacute;dos exclusivos e muitas dicas de Entrevistas compartilhadas com vocês que se escreverem ate o dia 25 de Novembro de 2022, além de ter um canal de comunicação direta para qualquer dúvida que quiserem tirar durante e após as mentorias. 
 
 Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;m de oportunidades de Carreira nessas &aacute;reas aqui no Exterior essa &eacute; a sua oportunidade de crescer na carreira encontrando as melhores vagas do mercado e eu te ajudo de pertinho como fazer isso\!
 
