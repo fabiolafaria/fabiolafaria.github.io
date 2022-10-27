@@ -5,7 +5,6 @@ description: Participe das Mentorias de Marketing Digital e Mentorias para Empre
 title: Mentorias para Estudantes de Marketing Digital
 subtitle: 'Mentorias de Marketing Digital no Exterior'
 img: data-analytics.jpg
-
 ---
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async="" defer=""></script>
