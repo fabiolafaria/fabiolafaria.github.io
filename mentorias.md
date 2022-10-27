@@ -10,9 +10,7 @@ img: data-analytics.jpg
 
 ## Trilhe sua Carreira em Marketing Digital no Exterior
 
-Ol&aacute; Pessoal\! 
-
-Finalmente depois de 2 anos sem Mentorias para estudantes, retornamos agora em Novembro com as **Mentorias de Marketing Digital para Estudantes no Brasil e no Exterior\!** 
+Ol&aacute; Pessoal\! Finalmente retornamos agora em Novembro com as **Mentorias de Marketing Digital para Estudantes no Brasil e no Exterior\!** 
 
 Muita coisa aconteceram nesses últimos dois anos, não é mesmo? E eu continuei trabalhando muito durante todo esse tempo, e finalmente teremos conte&uacute;dos exclusivos e muitas dicas de Entrevistas compartilhadas com vocês que se escreverem até o dia **31 de Novembro de 2022**, além de ter um canal de comunicação direta para qualquer dúvida que quiserem tirar durante e após as mentorias. 
 
