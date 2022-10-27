@@ -63,7 +63,7 @@ Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, c
 Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engine e Analise de Dados. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Search Engine Strategist](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin.
 
 <!-- <div class="mw6 center tc contactbox"></div> -->
-<div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href="&nbsp;https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge">Fabiola Faria</a></div>
+<div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href="https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge">Fabiola Faria</a></div>
 
 ## Consultoria para Empreendedores na Irlanda
 
