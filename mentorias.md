@@ -58,7 +58,7 @@ Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Market
 
 ## Por que participar de Mentorias?
 
-Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, com muitas oportunidades de vagas abertas todos os dias. Sendo assim, poderei ajudar voc&ecirc;s a se prepararem pra ele, e at&eacute; mesmo focar em projetos pessoais como neg&oacute;cios pr&oacute;prios, além de ajudar a revisar t&eacute;cnicas de Entrevistas com Feedbacks e recomendar melhorias no currículo direcionando para a vaga desejada. 
+Porque o mercado de Marketing Digital &eacute; muito promissor em todo o mundo, mas posso dizer mais especificamente que o mercado Europeu está numa crescente demanda de profissionais qualificados, o que resulta em muitas oportunidades de vagas abertas todos os dias. Sendo assim, poderei ajudar voc&ecirc;s a se prepararem pra ele, e at&eacute; mesmo focar em projetos pessoais como neg&oacute;cios pr&oacute;prios, além de ajudar a revisar t&eacute;cnicas de Entrevistas com Feedbacks e recomendar melhorias no currículo direcionando para a vaga desejada. 
 
 É importante lembrar que a Mentoria é uma forma de direcionar o mentorando, esclarecer dúvidas frequêntes em relacao as oportunidades que estão buscando, e informar sobre as expectativas da Carreira. Se vocë tem muitas dúvidas sobre esse mercado ainda, então esse é o momento certo para você esclarecer todas suas dúvidas!
 
