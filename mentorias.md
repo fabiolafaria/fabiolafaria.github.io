@@ -6,7 +6,6 @@ title: Mentorias para Estudantes de Marketing Digital
 subtitle: 'Mentorias de Marketing Digital no Exterior'
 img: data-analytics.jpg
 ---
-
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async="" defer=""></script>
 
 ## Mentorias para Estudantes de Marketing Digital
@@ -24,23 +23,23 @@ Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Di
 
 Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lançado no valor inicial de R$59.90 quando vendido separadamente sem a oferta de Black Friday.
 
-As mentorias serão individuais e com hora agendada, num formato totalmente customizado e direcionado a necessidade de cada mentorando, então isso também significa que as **vagas são limitadas**. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao muito maiores! 
+As mentorias serão individuais e com hora agendada, num formato totalmente customizado e direcionado a necessidade de cada mentorando, então isso também significa que as **vagas são limitadas**. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao muito maiores\! 
 
 ## Como funciona a&nbsp;**Mentoria de Marketing Digital**?
 
-O nosso encontro vai ser individualizado e de forma 100% online, atraves de video chamadas e mensagens diretas de texto. Os encontros possuem total flexibilidade de remarcaçao de horas ficando dependente apenas de aviso previo de 12h e a nova data em funçao de disponibilidade de agenda. Por esse motivo as vagas sao reduzidas para esse ano de 2022, e se voce tem urgencia em finalizar a Mentoria para conquistar a tao sonhada opotunidade de emprego, nao deixe para depois!
+O nosso encontro vai ser individualizado e de forma 100% online, atraves de video chamadas e mensagens diretas de texto. Os encontros possuem total flexibilidade de remarcaçao de horas ficando dependente apenas de aviso previo de 12h e a nova data em funçao de disponibilidade de agenda. Por esse motivo as vagas sao reduzidas para esse ano de 2022, e se voce tem urgencia em finalizar a Mentoria para conquistar a tao sonhada opotunidade de emprego, nao deixe para depois\!
 
 
-Mas Fabi antes voce fazia em grupos, isso mudou? Sim, inicialmente para poder ajud&aacute;-las por 1 m&ecirc;s em qualquer que era a d&uacute;vida relacionada a **Marketing Digital (SEM, Social Media, Web Analytics, etc)** eu testava o formato [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"} e disponibilizava conte&uacute;dos exclusivos de v&iacute;deos e o nosso contato era atraves de chat em grupos. Apos um mes testando esse formato, a demanda de perguntas diminuia ao longo do tempo, e muitas pessoas desistiam de acompanhar apos a segunda semana. Muitas pessoas sentiam vergonha de perguntar conceitos basicos, e nesse formato nao havia a disponibilidade de encontros individuais e na maioria das vezes as pessoas nao participavam dos grupos, senao mandavam mensagens direta perguntando. Entao eu entendi que para ajudar com algum problema eu tinha que me dedicar inteiramente para aquela pessoa, aquele problema e fazer um atendimento diferenciado para cada dor. Na falta de disponibilidade de horas durante o periodo de aulas do meu Mestrado em Inteligencia Artificial, eu pausei todas as mentorias. 
+Mas Fabi antes voce fazia em grupos, isso mudou? Sim, inicialmente para poder ajud&aacute;-las por 1 m&ecirc;s em qualquer que era a d&uacute;vida relacionada a **Marketing Digital (SEM, Social Media, Web Analytics, etc)** eu testava o formato [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"} e disponibilizava conte&uacute;dos exclusivos de v&iacute;deos e o nosso contato era atraves de chat em grupos. Apos um mes testando esse formato, a demanda de perguntas diminuia ao longo do tempo, e muitas pessoas desistiam de acompanhar apos a segunda semana. Muitas pessoas sentiam vergonha de perguntar conceitos basicos, e nesse formato nao havia a disponibilidade de encontros individuais e na maioria das vezes as pessoas nao participavam dos grupos, senao mandavam mensagens direta perguntando. Entao eu entendi que para ajudar com algum problema eu tinha que me dedicar inteiramente para aquela pessoa, aquele problema e fazer um atendimento diferenciado para cada dor. Na falta de disponibilidade de horas durante o periodo de aulas do meu Mestrado em Inteligencia Artificial, eu pausei todas as mentorias.
 
 Felizmente as aulas do mestrado acabaram em Setembro deste ano, e desde entao venho trabalhand num formato totalmente individualizado com conteudos atualizados para atender todas as novas Mentorandas de forma a auxiliar da melhor forma a trilhar uma carreira de Sucesso em Marketing Digital.
 
 O que tambem significa que nao teremos mais mentorias em formato de grupo nesse momento, e ha um investimento para o comprometimento com o conteudo entregado. Se voce nao possui condicoes de pagar sua mentoria nesse momento, saiba que ainda temos 3 vagas disponiveis para mentorias totalmente gratuitas, com 100% do valor do investimento patrocinado e voce tambem tera acesso a todo o material que inclui durante a oferta vigente. Para tentar uma vaga gratuita voce precisa entrar em contanto comigo atraves do email e contar seu caso e como a mentoria pode te auxiliar nesse momento. As mentorias gratuitas serao reservadas apenas para aqueles que nao possuem condicoes financeiras de custear o valor total da mentoria, mas cada caso e avaliado conforme o email enviado.  
 
-Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória aqui e saiba mais sobre minha experiencia trabalhando com Marketing Digital no Exterior!
+Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória aqui e saiba mais sobre minha experiencia trabalhando com Marketing Digital no Exterior\!
 
 
-Fabi, quais t&oacute;picos podem ser abordados?
+## Fabi, quais t&oacute;picos podem ser abordados?
 
 Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Marketing Digital normalmente s&atilde;o:
 
@@ -84,5 +83,3 @@ Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engi
 &nbsp;
 
 Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Consultoria de Dados para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato para saber mais!
-
-&nbsp;
