@@ -82,4 +82,7 @@ Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engi
 
 &nbsp;
 
-Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Consultoria de Dados para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato para saber mais!
+Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Consultoria de Dados para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato para saber mais\!
+
+&nbsp;
+&nbsp;
