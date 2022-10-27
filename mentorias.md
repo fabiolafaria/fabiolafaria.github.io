@@ -1,6 +1,6 @@
 ---
 layout: blog
-metatitle: Mentorias de Marketing Digital | Mentorias para Empreendedores
+metatitle: Mentorias de Marketing Digital | Mentorias no Exterior para Estudantes de Marketing
 description: Participe das Mentorias de Marketing Digital e Mentorias para Empreendedores com Digital Marketing Expert. Entre em contato para saber mais sobre as Mentorias 2020!
 title: Mentorias de SEO & Data Analytics
 subtitle: 'Mentorias de Marketing Digital'
@@ -10,13 +10,39 @@ img: data-analytics.jpg
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async="" defer=""></script>
 
-## Mentorias Gratuitas 2020
+## Mentorias para Estudantes de Marketing Digital
 
-Ol&aacute; Meninas\! Aten&ccedil;&atilde;o pra quem procura saber mais sobre Marketing Digital na Europa\!
+Ol&aacute; Meninas\! Aten&ccedil;&atilde;o pra quem procura saber mais sobre Marketing Digital no Exterior\!
 
-Retornamos em Janeiro de 2020 com as **Mentorias de Marketing Digital s&oacute; para mulheres\!** Teremos conte&uacute;dos exclusivos e gratuitos no [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"}. Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;m de oportunidades de Carreira nessas &aacute;reas aqui na Europa essa &eacute; a sua oportunidade\!
+Finalmente depois de 2 anos sem Mentorias, Retornamos agora em Novembro com as **Mentorias de Marketing Digital s&oacute; para Estudantes de Marketing no Exterior\!** Muita coisa aconteceram nesses últimos dois anos, não e mesmo? Então, teremos conte&uacute;dos exclusivos e muitas dicas de Entrevistas compartilhadas com vocês que se escreverem ate o dia 25 de Novembro de 2022, além de ter um canal de comunicação direta para qualquer dúvida que quiserem tirar após as mentorias. 
 
-Quais t&oacute;picos podem ser abordados?
+Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;m de oportunidades de Carreira nessas &aacute;reas aqui no Exterior essa &eacute; a sua oportunidade de crescer na carreira encontrando as melhores vagas do mercado e eu te ajudo de pertinho como fazer isso\!
+
+
+Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Digital** por apenas **€34.90 ou 5x de R$35** , mas a boa noticia é que ela vai durar pelo mês inteiro de Novembro finalizando as 23:55 do dia 31 de Novembro de 2022.
+
+Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lancado no valor inicial de R$59.90.
+
+Depois o preço da mentoria vai voltar ao normal, e voces tambem perdem o E-book exclusivo.
+
+Como voces sabem, as mentorias são individuais e dependem de hora marcada, num formato totalmente customizado e individual, entao tambem e limitada. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao maiores. 
+
+Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória aqui e saiba mais sobre minha experiencia trabalhando com Marketing Digital no Exterior!
+
+
+## Como funciona a&nbsp;**Mentoria de Marketing Digital**?
+
+O nosso encontro vai ser individualizado e de forma 100% online, atraves de video chamadas e mensagens diretas de texto. Os encontros possuem total flexibilidade de remarcaçao de horas ficando dependente apenas de aviso previo de 12h e a nova data em funçao de disponibilidade de agenda. Por esse motivo as vagas sao reduzidas para esse ano de 2022, e se voce tem urgencia em finalizar a Mentoria para conquistar a tao sonhada opotunidade de emprego, nao deixe para depois!
+
+
+Mas Fabi antes voce fazia em grupos, isso mudou? Sim, inicialmente para poder ajud&aacute;-las por 1 m&ecirc;s em qualquer que era a d&uacute;vida relacionada a **Marketing Digital (SEM, Social Media, Web Analytics, etc)** eu testava o formato [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"} e disponibilizava conte&uacute;dos exclusivos de v&iacute;deos e o nosso contato era atraves de chat em grupos. Apos um mes testando esse formato, a demanda de perguntas diminuia ao longo do tempo, e muitas pessoas desistiam de acompanhar apos a segunda semana. Muitas pessoas sentiam vergonha de perguntar conceitos basicos, e nesse formato nao havia a disponibilidade de encontros individuais e na maioria das vezes as pessoas nao participavam dos grupos, senao mandavam mensagens direta perguntando. Entao eu entendi que para ajudar com algum problema eu tinha que me dedicar inteiramente para aquela pessoa, aquele problema e fazer um atendimento diferenciado para cada dor. Na falta de disponibilidade de horas durante o periodo de aulas do meu Mestrado em Inteligencia Artificial, eu pausei todas as mentorias. 
+
+Felizmente as aulas do mestrado acabaram em Setembro deste ano, e desde entao venho trabalhand num formato totalmente individualizado com conteudos atualizados para atender todas as novas Mentorandas de forma a auxiliar da melhor forma a trilhar uma carreira de Sucesso em Marketing Digital.
+
+O que tambem significa que nao teremos mais mentorias em formato de grupo nesse momento, e ha um investimento para o comprometimento com o conteudo entregado. Se voce nao possui condicoes de pagar sua mentoria nesse momento, saiba que ainda temos 3 vagas disponiveis para mentorias totalmente gratuitas, com 100% do valor do investimento patrocinado e voce tambem tera acesso a todo o material que inclui durante a oferta vigente. Para tentar uma vaga gratuita voce precisa entrar em contanto comigo atraves do email e contar seu caso e como a mentoria pode te auxiliar nesse momento. As mentorias gratuitas serao reservadas apenas para aqueles que nao possuem condicoes financeiras de custear o valor total da mentoria, mas cada caso e avaliado conforme o email enviado.  
+
+
+Fabi, quais t&oacute;picos podem ser abordados?
 
 Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Marketing Digital normalmente s&atilde;o:
 
@@ -24,7 +50,7 @@ Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Market
 * Onde tirar certifica&ccedil;&otilde;es gratuitas e online que s&atilde;o bem valorizadas no mercado?
 * Quais s&atilde;o as oportunidades de carreira fora?
 * Quais &aacute;reas de Marketing Digital posso focar?
-* Quais Ferramentas necess&aacute;rias para conquistar uma vaga
+* Quais Ferramentas necess&aacute;rias para conquistar a tão sonhada vaga
 * Como come&ccedil;ar aprendendo sobre Marketing Digital?
 * Quais melhores Plataformas de Conte&uacute;dos?
 * Quais ferramentas do Google me aprimorar?
@@ -32,9 +58,6 @@ Alguns t&oacute;picos que podem ajudar pessoas interessadas no mercado de Market
 * Como concorrer a vagas at&eacute; mesmo sem Experi&ecirc;ncia Anterior?
 * Melhores refer&ecirc;ncias de Marketing Digital, etc
 
-## Como funciona a&nbsp;**Mentoria de Marketing Digital**?
-
-O grupo vai ser reduzido inicialmente para poder ajud&aacute;-las por 1 m&ecirc;s em qualquer que seja a d&uacute;vida relacionada a **Marketing Digital (SEM, Social Media, Web Analytics, etc)**. Vou testar o formato [Close Friends do Instagram](https://www.instagram.com/fabiolafaria_/){: target="_blank"} para disponibilizar conte&uacute;dos exclusivos de v&iacute;deos por l&aacute;. Dependendo da demanda de perguntas poderemos criar um grupo exclusivo tamb&eacute;m por l&aacute;. Mas n&atilde;o teremos obrigatoriedade de atendimentos individuais.
 
 ## Por que participar de Mentorias?
 
@@ -42,21 +65,11 @@ Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, c
 
 ## Se voc&ecirc; ainda n&atilde;o me conhece\!
 
-Atuo h&aacute; mais de 10 anos em Marketing Digital. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Especialista em SEO](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin :)
+Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engine e Analise de Dados. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Especialista em SEO](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin :)
 
 <div class="mw6 center tc contactbox"><div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href="https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge">Fabiola Faria</a></div></div>
 
 &nbsp;
-
-## Mentoria 2020 para Mulheres
-
-Primeira turma de 2020 &eacute; somente para mulheres e come&ccedil;a em 20 de Janeiro \! Se voc&ecirc; estiver interessada por favor me manda um Direct no Instagramque adiciono na lista de Close Friends para ter acesso aos conte&uacute;dos exclusivos somente da Mentoria 2020\!
-
-Aten&ccedil;&atilde;o: Se voc&ecirc; ver esse conte&uacute;do depois disso, n&atilde;o fique triste\! Teremos uma segunda turma de mentoria (provavelmente) em Maio de 2020. Me segue no Instagram, ou me adicione por aqui no Linkedin para ficar por dentro das novidades para as pr&oacute;ximas **mentorias de Marketing Digital\!**
-
-**Novo Update\! 29/Jan:** Pedidos ainda est&atilde;o chegando para participar da mentoria que teve in&iacute;cio dia 20 de Janeiro. Infelizmente os grupos para atendimento j&aacute; est&atilde;o no limite, mas como os **Conte&uacute;dos est&atilde;o dispon&iacute;veis em Destaques** (enquanto o Instagram me permitir subir :) resolvi abrir para quem quiser acompanhar por l&aacute; os Conte&uacute;dos, Dicas, Desafios, etc.
-
-Por favor apenas mandar mensagem no Direct pelo Insta.
 
 <bold></bold>
 
@@ -68,10 +81,10 @@ Por favor apenas mandar mensagem no Direct pelo Insta.
 
 &nbsp;
 
-## \[NEW\!\] Mentorias para Empreendedores 2020
+## \[NEW\!\] Consultoria para Empreendedores na Irlanda
 
 &nbsp;
 
-Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Mentorias para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como otimizar seu negócio para aparecer nos resultados do Google, como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato!
+Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Consultoria de Dados para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato para saber mais!
 
 &nbsp;
