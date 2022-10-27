@@ -21,7 +21,7 @@ Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;
 
 Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Digital** por apenas **€34.90**, e a melhor noticia é que ela vai durar pelo mês inteiro de Novembro finalizando as 23:55 do dia 31 de Novembro de 2022.
 
-Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lançado no valor inicial de R$59.90 quando vendido separadamente sem a oferta de Black Friday.
+Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lançado no valor inicial de R$14.90 quando vendido separadamente sem a oferta de Black Friday.
 
 As mentorias serão individuais e com hora agendada, num formato totalmente customizado e direcionado a necessidade de cada mentorando, então isso também significa que as **vagas são limitadas**. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao muito maiores\! 
 
