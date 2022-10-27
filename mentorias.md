@@ -10,7 +10,7 @@ img: data-analytics.jpg
 
 ## Mentorias para Estudantes de Marketing Digital
 
-Ol&aacute; Meninas\! Aten&ccedil;&atilde;o pra quem procura saber mais sobre Marketing Digital no Exterior\!
+Ol&aacute; Pessoal\! 
 
 Finalmente depois de 2 anos sem Mentorias, Retornamos agora em Novembro com as **Mentorias de Marketing Digital s&oacute; para Estudantes de Marketing no Exterior\!** 
 
