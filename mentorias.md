@@ -23,14 +23,9 @@ Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;
 
 Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Digital** por apenas **€34.90 ou 5x de R$35** , mas a boa noticia é que ela vai durar pelo mês inteiro de Novembro finalizando as 23:55 do dia 31 de Novembro de 2022.
 
-Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lancado no valor inicial de R$59.90.
+Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lançado no valor inicial de R$59.90 quando vendido separadamente sem a oferta de Black Friday.
 
-Depois o preço da mentoria vai voltar ao normal, e voces tambem perdem o E-book exclusivo.
-
-Como voces sabem, as mentorias são individuais e dependem de hora marcada, num formato totalmente customizado e individual, entao tambem e limitada. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao maiores. 
-
-Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória aqui e saiba mais sobre minha experiencia trabalhando com Marketing Digital no Exterior!
-
+As mentorias serão individuais e com hora agendada, num formato totalmente customizado e direcionado a necessidade de cada mentorando, então isso também significa que as **vagas são limitadas**. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao muito maiores! 
 
 ## Como funciona a&nbsp;**Mentoria de Marketing Digital**?
 
@@ -42,6 +37,8 @@ Mas Fabi antes voce fazia em grupos, isso mudou? Sim, inicialmente para poder aj
 Felizmente as aulas do mestrado acabaram em Setembro deste ano, e desde entao venho trabalhand num formato totalmente individualizado com conteudos atualizados para atender todas as novas Mentorandas de forma a auxiliar da melhor forma a trilhar uma carreira de Sucesso em Marketing Digital.
 
 O que tambem significa que nao teremos mais mentorias em formato de grupo nesse momento, e ha um investimento para o comprometimento com o conteudo entregado. Se voce nao possui condicoes de pagar sua mentoria nesse momento, saiba que ainda temos 3 vagas disponiveis para mentorias totalmente gratuitas, com 100% do valor do investimento patrocinado e voce tambem tera acesso a todo o material que inclui durante a oferta vigente. Para tentar uma vaga gratuita voce precisa entrar em contanto comigo atraves do email e contar seu caso e como a mentoria pode te auxiliar nesse momento. As mentorias gratuitas serao reservadas apenas para aqueles que nao possuem condicoes financeiras de custear o valor total da mentoria, mas cada caso e avaliado conforme o email enviado.  
+
+Voce esta em duvida se investir? Veja um pouquinho mais sobre minha trajetória aqui e saiba mais sobre minha experiencia trabalhando com Marketing Digital no Exterior!
 
 
 Fabi, quais t&oacute;picos podem ser abordados?
