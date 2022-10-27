@@ -2,8 +2,8 @@
 layout: blog
 metatitle: Mentorias de Marketing Digital | Mentorias no Exterior para Estudantes de Marketing
 description: Participe das Mentorias de Marketing Digital e Mentorias para Empreendedores com Digital Marketing Expert. Entre em contato para saber mais sobre as Mentorias 2020!
-title: Mentorias de SEO & Data Analytics
-subtitle: 'Mentorias de Marketing Digital'
+title: Mentorias para Estudantes de Marketing Digital
+subtitle: 'Mentorias de Marketing Digital no Exterior'
 img: data-analytics.jpg
 
 ---
