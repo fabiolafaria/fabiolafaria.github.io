@@ -2,7 +2,7 @@
 title: SEO & Data Analytics | Mentorias | Fabiola Faria
 description: Procurando Mentorias de Marketing Digital? Saiba mais sobre Search Engine Marketing, SEO, Google Analytics, Data Studio e muito mais!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fabiolafaria.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fabiolafaria.com" # the base hostname & protocol for your site, e.g. http://example.com
 disqus-identifier: seoanalytics-2
 
 collections:
@@ -46,7 +46,7 @@ about-author: Search Engine Specialist com Mais de 10 anos de experiência com S
 author-email: fabiola.analytics@gmail.com
 author-twitter: https://twitter.com/fabiola_faria   
 author-facebook: https://twitter.com/fabiola.faria  
-author-instagram: https://www.instagram.com/fabilowcarb
+author-instagram: https://www.instagram.com/fabiolafaria_
 author-pinterest: https://pinterest.com/
 
 # Other Authors - here you can add Other authors. For example Natali_Braxton
