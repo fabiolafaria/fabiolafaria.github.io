@@ -24,9 +24,13 @@ Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Di
 Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de Entrevistas e como trilhar uma carreira de sucesso em Marketing Digital não só no Brasil com também no Exterior. O E-book é totalmente novo e será lançado no valor inicial de €14.90 quando vendido separadamente sem a oferta de Black Friday.
 
 As **mentorias serão individuais e com hora agendada**, num formato totalmente customizado e direcionado a necessidade de cada mentorando, então isso também significa que as **vagas são limitadas**. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao muito maiores, por isso não deixe para depois e garanta agora sua vaga entrando em contato direto pelo Instagram\!
+
 &nbsp;
+
 &nbsp;
+
 <div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Quero Mentoria</a></h2></div>
+
 &nbsp;
 
 ## Como funciona a&nbsp;**Mentoria de Marketing Digital**?
