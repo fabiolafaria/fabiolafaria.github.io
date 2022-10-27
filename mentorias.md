@@ -16,7 +16,7 @@ Muita coisa aconteceram nesses últimos dois anos, não é mesmo? E eu continuei
 
 Para quem quiser saber mais sobre Marketing Digital & Data Analytics, al&eacute;m de oportunidades de Carreira nessas &aacute;reas aqui no Exterior essa &eacute; a sua oportunidade de crescer na carreira encontrando as melhores vagas do mercado e eu te ajudo de pertinho como fazer isso\!&nbsp;
 
-Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Digital** por apenas **€34.90**, e a melhor noticia é que ela vai durar pelo mês inteiro de Novembro finalizando as 23:55 do dia 31 de Novembro de 2022.
+Essa e uma promoção especial de **Black Friday para Estudantes de Marketing Digital** por apenas **€54.90**, e a melhor noticia é que ela vai durar pelo mês inteiro de Novembro finalizando as 23:55 do dia 31 de Novembro de 2022.
 
 Você ainda ganha um E-book exclusivo criado com muito amor com muitas **dicas de como trilhar uma Carreira de Sucesso em Marketing Digital não só no Brasil, mas no Mundo**. O E-book é totalmente novo e será lançado no valor inicial de €14.90 quando vendido separadamente sem a oferta de Black Friday.
 
