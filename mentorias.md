@@ -25,7 +25,7 @@ Você ainda ganha um E-book exclusivo criado com muito amor com muitas dicas de 
 As **mentorias serão individuais e com hora agendada**, num formato totalmente customizado e direcionado a necessidade de cada mentorando, então isso também significa que as **vagas são limitadas**. Mas quanto antes voce garantir sua vaga na agenda, a chances de realizar a mentoria ainda este ano e garantir o descontinho da Black Friday sao muito maiores, por isso não deixe para depois e garanta agora sua vaga entrando em contato direto pelo Instagram\!&nbsp;
 
 <div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" target="_blank" href="https://www.instagram.com/fabiolafaria_/">Quero Mentoria</a></h2></div>
-<br>
+
 ## Como funciona a&nbsp;**Mentoria de Marketing Digital**?
 
 O nosso encontro vai ser individualizado e de forma 100% online, atraves de video chamadas e mensagens diretas de texto. Os encontros possuem total flexibilidade de remarcaçao de horas ficando dependente apenas de aviso previo de 12h e a nova data em funçao de disponibilidade de agenda. Por esse motivo as vagas sao reduzidas para esse ano de 2022, e se voce tem urgencia em finalizar a Mentoria para conquistar a tao sonhada opotunidade de emprego, nao deixe para depois\!
@@ -60,10 +60,10 @@ Porque o mercado de Marketing Digital &eacute; muito promissor em toda Europa, c
 
 ## Se voc&ecirc; ainda n&atilde;o me conhece\!
 
-Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engine e Analise de Dados. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Strategista em Search Engine](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin :)
+Atuo h&aacute; mais de 12 anos em Marketing Digital especializada em Search Engine e Analise de Dados. J&aacute; dei diversas mentorias presenciais e online anteriormente, incluindo USP e ESPM em S&atilde;o Paulo e atualmente trabalho como [Search Engine Strategist](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"} (Marketing Digital) aqui na Irlanda. Voc&ecirc; pode dar uma olhadinha no meu perfil do Linkedin.
 
-<br>
-<div class="mw6 center tc contactbox"><div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href="&nbsp;https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge">Fabiola Faria</a></div></div>
+<!-- <div class="mw6 center tc contactbox"><div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href="&nbsp;https://ie.linkedin.com/in/fabiolafaria/en?trk=profile-badge">Fabiola Faria</a></div></div> -->
 
 ## Consultoria para Empreendedores na Irlanda
+
 Em breve mais informa&ccedil;&otilde;es aqui sobre as novas turmas de Consultoria de Dados para Empreendedores. Se voc&ecirc; j&aacute; est&aacute; interessado em saber como configurar e usar o Google Analytics no seu site, como criar Dashboards funcionais pelo Google Data Studio, analisar dados e aplicar novas estratégias de otimização de vendas. Entre em contato para saber mais\!
