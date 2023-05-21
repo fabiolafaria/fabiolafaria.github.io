@@ -5,4 +5,7 @@
 
   ga('create', 'UA-147256894-1', 'auto');
   ga('send', 'pageview');
+  gtag('config', 'G-QYR4Q2TDXJ');
+
+
 
