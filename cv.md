@@ -1,19 +1,21 @@
 ---
 layout: blog
-metatitle: Experiência. Paixão. Resultados | SEOAnalytics
+metatitle: SEO Strategist and Data Analyst Consultant | Fabiola Faria
 title: Fabíola Faria
-subtitle: 'This is my site. This is my Experience'
+subtitle: 'This is my site. This is my +12 years of Experience in SEO and Data Analysis'
 img: data-analytics.jpg
 ---
 
-I am a qualified and highly experienced specialist in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil. During this period I gained valuable experience in leading technical teams.&nbsp;
+I am a qualified and highly experienced strategist in search engine optimization and data analytics with over 12 years of experience in digital marketing serving large e-commerce clients in Brazil. During this period I develop valuable experience in leading technical teams focusing on website performance, mobile optimisation and structured data implementations. 
+
+Currently I am a MSc Artificial Intelligence candidate at University of Limerick researching about Digital Marketing AI-powered and Machine Learning models enhancing Digital Marketing. I'm also a full-time permanent Search Engine Strategist at Avvio part of SHR group serving hospitality websites in Europe and USA.&nbsp;
 
 [REACH ME ON LINKEDIN](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}
 
 ## Tools:
 
-* Search Console (Google Webmaster Tools)&nbsp;
-* Google Analytics, Power BI, Google Data Studio&nbsp;
+* Search Console, Bing Webmaster&nbsp;
+* Google Analytics, Power BI, Google Looker Studio, BigQuery&nbsp;
 * SEMRush, DeepCrawl, Botify, Hrefs, Moz, Screaming Frog, Sensor Tower
 * Page Speed, GTMetrix, Webpage Test, Lighthouse in Dev, Pingdom
 * Google Tag Manager, &nbsp;
@@ -22,7 +24,25 @@ I am a qualified and highly experienced specialist in search engine optimization
 
 ## Experience
 
-**SEO ANALYTICS - 2016 – 2018**&nbsp;- Data Analytics Consultant / SEO Consultant
+**Avvio part of SHR group - 2019 – present**&nbsp;- Data Analytics Consultant / SEO Consultant
+
+As an SEO Strategist in the Customer Success Team and working closely the Technical Team I'm responsible on maximising SEO performance for Avvio’s portfolio of hotels and apartments and the main activities are:
+
+* Manage a portfolio of hotels and apartments to increase organic traffic and revenue;
+* Analyse Google Analytics metrics to identify areas for improvement on landing pages;
+* Be the key driver for quality site content working with Digital Strategy Lead & ECM’s;
+* Working with the ECM’s to deliver SEO recommendations for customers;
+* Collaborate with internal teams to complete SEO initiatives and deliver results;
+* Working closely with team on website go lives;
+* Using SEO tools to identify opportunities for growth;
+* Keeping up to date with the most recent developments in Search Engine Marketing and sharing with wider team;
+* Review site structure with design team on go lives when necessary;
+* Working with Technical Team Lead to deliver training when needed to the ECM’s;
+* Analysing, developing and implementing on-site and off-site SEO strategies;
+* Monitoring and reporting on any significant Google algorithmic changes;
+* Monitoring and analyse performance using recognised KPIs and implement actions and agreed strategies to improve conversion optimisation.
+
+**SEO ANALYTICS - 2016 – present**&nbsp;- Data Analytics Consultant / SEO Consultant
 
 **VIVA DECORA - &nbsp;2016 – 2017 -&nbsp;**Senior SEO Specialist
 
