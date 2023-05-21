@@ -2,7 +2,7 @@
 layout: blog
 metatitle: SEO Strategist and Data Analyst Consultant | Fabiola Faria
 title: Fabíola Faria
-subtitle: 'This is my site. This is my +12 years of Experience in SEO and Data Analysis'
+subtitle: 'This is my +12 years of Experience in SEO and Data Analysis'
 img: data-analytics.jpg
 ---
 
